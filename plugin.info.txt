@@ -1,0 +1,7 @@
+base   localavatar
+author Simon Delage
+email  simon.geekitude@gmail.com
+date   2017-07-20
+name   Local Avatar plugin
+desc   Locally generate avatars
+url    https://www.dokuwiki.org/plugin:localavatar
